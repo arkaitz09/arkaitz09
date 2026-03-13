@@ -14,7 +14,7 @@
 
 ## About me
 
-Backend developer based in Bilbao, Basque Country🇪🇸 with 7 years of professional experience — 4 in enterprise environments (Accenture/Iberdrola) and 3 at CTI Soluciones, where I introduced modern Java, REST APIs, Thymeleaf, Angular and proper Git workflows into a legacy COBOL environment.
+Backend developer based in Bilbao, Basque Country🇪🇸 with 7 years of professional experience — 4 in enterprise environments (Accenture/Iberdrola) and 3 at CTI Soluciones, where I introduced modern Java, REST APIs, Thymeleaf and proper Git workflows into a legacy COBOL environment.
 
 I care about clean architecture, maintainable code, and shipping software that actually works in production. Currently moving into financial messaging systems (SWIFT + IBM MQ).
 
