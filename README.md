@@ -46,9 +46,8 @@ languages:   Basque (native) · Spanish (native) · English (working proficiency
 
 | Project | Stack | What it does |
 |---|---|---|
-| [RainbowSeaHorses](#) | Java · Docker · Apache · Riot API | LoL ranking system on a self-managed Linux server |
-| [Kralamales de Dofus](#) | Python · OCR · PyAutoGUI · MongoDB | Market bot for Dofus — no official API, built own scraping layer |
-| [delta-backend](#) | Node.js · Express | Learning project: REST API fundamentals |
+| [RainbowSeaHorses](https://github.com/orgs/RainbowSeaHorses/repositories) | Java · Docker · Apache · Riot API | LoL ranking system on a self-managed Linux server |
+| [Kralamales de Dofus](https://github.com/orgs/Los-Kralamales-de-Dofus/repositories) | Python · OCR · PyAutoGUI · MongoDB | Market bot for Dofus — no official API, built own scraping layer |
 
 > Most repos are currently private — making them public progressively with proper documentation.
 
