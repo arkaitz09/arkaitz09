@@ -22,7 +22,7 @@ I care about clean architecture, maintainable code, and shipping software that a
 focus:       Backend · Architecture · Security
 stack:       Java 17 · Spring Boot · REST APIs
 learning:    Docker · Cloud (Hetzner VPS) · SWIFT / ISO 20022
-languages:   Basque (native) · Spanish (native) · English (working proficiency, improving)
+languages:   Basque (native) · Spanish (native) · English (B1, improving)
 ```
 
 ---
