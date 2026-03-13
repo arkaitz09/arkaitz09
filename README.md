@@ -5,7 +5,7 @@
 **Backend Developer · Java & Spring Boot · Building real things**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkaitz-gonzalez-mesa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arkaitz09@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arkaitz.gonzalez.mesa@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live_App-aries.audicted.es-4A90D9?style=flat&logo=cloudflare&logoColor=white)](https://aries.audicted.es)
 
 </div>
