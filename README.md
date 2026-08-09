@@ -55,6 +55,7 @@ languages:   Basque (native) · Spanish (native) · English (B1, improving)
 * Designed as a lightweight tool for sprint preparation
 
 🔗 **[GitHub →](https://github.com/arkaitz09/sprint-drafter)**
+
 ---
 
 ## Other projects
