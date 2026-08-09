@@ -27,7 +27,8 @@ languages:   Basque (native) · Spanish (native) · English (B1, improving)
 
 ---
 
-## Featured project — Aries
+## Featured projects
+### Aries
 
 > A web app for a healthcare team that processes Excel files and generates WhatsApp messages for families with appointment information.
 
@@ -40,6 +41,20 @@ languages:   Basque (native) · Spanish (native) · English (B1, improving)
 
 🔗 **[Live →](https://aries.audicted.es)**
 
+### Sprint Drafter
+
+> A local tool for preparing a draft of your next sprint before it starts.
+
+**Tech:** Java · Spring Boot
+
+**What makes it interesting:**
+
+* Create a draft for your **next sprint**
+* Prepare and organize the sprint locally before starting it
+* Runs entirely **locally**, with its own configuration
+* Designed as a lightweight tool for sprint preparation
+
+🔗 **[GitHub →](https://github.com/arkaitz09/sprint-drafter)**
 ---
 
 ## Other projects
